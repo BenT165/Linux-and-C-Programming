@@ -1,0 +1,1 @@
+Interative Shell program that can support a series of built-in commands and standard Linux commmands. Capable of supporting foreground and background processes.  No input may be entered (with the exception of signals) while a foreground process is running.  Only one foreground can run at a time while multiple processes can run in the background.
